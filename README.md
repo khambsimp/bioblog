@@ -1,12 +1,15 @@
 # Bioblog
-This README describes the blog initiation for blog on Open Source applications
+This README describes some areas ongoing Biological Research where it is
+possible that discrete mathematics applied to the formulation and categorization
+of tissue is beneficial. Blog initiation for our blog on Open Source application
 of Biological Research Devices. These could be based on Nuclear Magnetic
-Resonance, X-Ray, Computed Tomography or even Ultrasound. In each instance
-mentioned previously. It is apparent that there are Discrete Structures in the
-formulation of Biological and Chemical processes. Even in an algebraic, or
-algorithmic sense, being able to represent a number of these processes
-symbolically really simplifies the visual illustration the Software graphics
-are generating.
+Resonance, X-Ray, Computed Tomography or even Ultrasound.
+
+In each application mentioned previously it is apparent that there are Discrete
+Structures in the formulation of Biological and Chemical processes. Even in an
+algebraic, or algorithmic sense, being able to represent a number of these
+processes symbolically really simplifies the visual illustration the Software 
+graphics are generating.
 
 # A Computer is a mathematical construct
 There are certain Biological processes whose systemic behavior resembles a
@@ -29,6 +32,8 @@ These problems are assumed to have limited quantitative
 information about them. This is incorrect. There is a lot of really good
 research on Biological problems which would constitute an open discussion
 representing biological and chemical processes as individual discrete systems.
+
+# Tries
 
 
 
