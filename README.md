@@ -1,8 +1,8 @@
 # Bioblog
-This README describes some areas ongoing Biological Research where it is
-possible that discrete mathematics applied to the formulation and categorization
-of tissue is beneficial. Blog initiation for our blog on Open Source application
-of Biological Research Devices. These could be based on Nuclear Magnetic
+This README describes areas of ongoing Biological Research where applied discrete mathematics 
+is beneficial to the formulation and categorization of tissue.
+ Bioblog Blog was initiated as an Open Source store for Applied Biological Research. 
+The intent beingthis research could influencethe These could be based on Nuclear Magnetic
 Resonance, X-Ray, Computed Tomography or even Ultrasound.
 
 In each application mentioned previously it is apparent that there are Discrete
