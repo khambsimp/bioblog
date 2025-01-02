@@ -15,6 +15,9 @@ graphics are generating.
 
 https://embryo.asu.edu/pages/john-von-neumanns-cellular-automata
 
+# Automata
+Discrete Mathematics, and Discrete Structures can be theorized, or assumed across a number of geometric, or framework dependent objects. These could be graphs, automata, machines, written language, or even biology. Now, Automata specifically are paricularly suited to modeling biology.
+
 # A Computer is a mathematical construct
 There are certain Biological processes whose systemic behavior resembles a
 discrete function expressed as a multitude of discrete analogues. There are
@@ -39,7 +42,7 @@ representing biological and chemical processes as individual discrete systems.
 
 # Tries
 
-
+# Sources
 
 
 
