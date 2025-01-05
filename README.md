@@ -32,15 +32,14 @@ way to manage large processes with varied molecular outcomes, as a copy of
 another analog system.
 
 # Biological Problems
-Here are some really good examples: . The aim of bioblog is to present the
+Here are some really good examples: The aim of bioblog is to present the
 extrapolation for large scale discrete analysis applied in a biological context.
- Many reoccurring patterns within Data Analysis are actually formulations of
- underlying algorithms. Because algorithms can be specified
-and categorized in much more efficient systems today, versus in the past, it
-stands that there are also many more opportunities to simplify the analysis of
- large swathes of biological data.  
+Many reoccurring patterns within Data Analysis are actually formulations of
+underlying algorithms. Because algorithms can be specified,and categorized 
+in much more efficient systems today, versus in the past, it stands that there are 
+also many more opportunities to simplify the analysis of large swathes of biological data.  
 
-These problems are assumed to have limited quantitative
+Biological problems are assumed to have limited quantitative
 information about them. This is incorrect. There is a lot of really good
 research on Biological problems which would constitute an open discussion
 representing biological and chemical processes as individual discrete systems.
