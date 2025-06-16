@@ -1,4 +1,8 @@
 # Bioblog
+A question was asked, what is information scence, hat are systems, what is biology, and
+what does it mean for these to be quantified? Further lmore, arethere methods for deriving quantities
+from biological systems? is it even possible?
+furthermore walhat could quantiffanbrng to hiological systems? 
 This README describes areas of ongoing Biological Research, where applied discrete mathematics 
 is beneficial to the analysis and categorization of tissue.
 
