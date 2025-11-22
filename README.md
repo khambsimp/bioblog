@@ -1,8 +1,10 @@
 # Bioblog
+A question was asked, what is information scence, hat are systems, what is biology, and what does it mean for these to be quantified? Further lmore, arethere methods for deriving quantities from biological systems? is it even possible? furthermore walhat could quantiffanbrng to hiological systems? This README describes areas of ongoing Biological Research, where applied discrete mathematics is beneficial to the analysis and categorization of tissue.
+
 This README describes areas of ongoing Biological Research where applied discrete mathematics 
 is beneficial to the formulation and categorization of tissue.
-Bioblog Blog was initiated as an Open Source store for Applied Biological Research. 
-The intent beingthis research could influencethe These could be based on Nuclear Magnetic
+Bioblog Blog was initiated as an Open Source archive for Applied Biological Research. 
+The intent being that research could influence the These could be based on Nuclear Magnetic
 Resonance, X-Ray, Computed Tomography or even Ultrasound.
 
 In each application mentioned previously it is apparent that there are Discrete
