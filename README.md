@@ -9,18 +9,38 @@ This README describes areas of ongoing Biological Research where, applied discre
 Bioblog Blog was initiated as an Open Source archive for Applied Biological Research. 
 The intent was that research could influence, and provide suitable answers to these questions which were asked.
 
-From an information perspective, there was an intent to utilize different sensor architectures. Including, Nuclear Magnetic Resonance, X-Ray, Computed Tomography or even Ultrasound.
+From an information perspective, there was an intent to utilize different sensor architectures. Including, Nuclear Magnetic Resonance, X-Ray, Computed Tomography and Ultrasound
 
 Discrete Systems play a role in the formulation of Biological and Chemical processes.
 Even in an algebraic, or algorithmic sense, being able to represent processes symbolically simplifies their modeling and simulation.
-
-
 
 # Automata
 Discrete Mathematics, and Discrete Structures can be theorized, or assumed across 
 a number of geometric, or framework dependent objects. These could be graphs, 
 automata, machines, written language, or even biology. Now, Automata, specifically 
-are paricularly suited to modeling biology. 
+are paricularly suited to modeling biology. Okay, let's write at length about automata,
+what they are, and how they are useful within a Biological context. So, lets begin.
+The concept of an Automata may be immediate familiar to us within the context of the
+so called, Computing machine. Within this ontext the automata is a discrete representation
+of a computational process, whereby, the automaton where reading, or deciphering through
+a formal language, and these would alter its internal state. In a similar manner this is not far
+from an interpretation of a discrete control system. This discrete control system would accept,
+many formal or symbolic languages as input and have some kind of internal state which was
+also representable as a a word, or integer, within this finite language. Chances are training
+people to interpret a language as an algorithim or as a derivative of a discrete information
+system could actually be a viable way to compare languages with one another.
+
+The analog in this case to a biological system would be this post darwinian perspective or
+contextualization of a biological entity as consisting, where the "cell" taken as the automaton,
+as having its own interior language, here read "molecule", and its own exterior language, read here
+chemicals passing the cell membrane barrier, and which would alter the chemical coposition of the cell,
+and cause the structures inside it to also be altered.
+
+## Automata (Neuron)
+Let's take as an example of a Biological Automaton a Neuron. Of course there is also the entire
+study of Neuron Engineering which would especially be applicable here, however, perhaps by
+focusing on discrete characteristics and actions of neurons we can develop some mathematical Model
+that can be computed efficiently.
 
 # A Computer is a Mathematical Construct
 There are certain Biological processes whose systemic behavior resembles a
